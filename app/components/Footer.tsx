@@ -14,6 +14,7 @@ export default function Footer() {
           </span>
         </Link>
 
+
         {/* Right: copyright */}
         <p className="text-center text-sm text-zinc-500 sm:text-right">
           © 2026 FitLog — Workout Library. Train hard, log honest.
