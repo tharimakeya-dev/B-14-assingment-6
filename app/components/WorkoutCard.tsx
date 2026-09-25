@@ -3,6 +3,7 @@ import { type Workout } from "../lib/workouts";
 import { ClockIcon, FlameIcon, StarIcon } from "./icons";
 
 /** A library card. The whole card links to the workout's detail page. */
+
 export default function WorkoutCard({ workout }: { workout: Workout }) {
   return (
     <Link
