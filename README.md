@@ -82,5 +82,5 @@ three columns to one, the hero stacks, and the navbar exposes a mobile menu.
    **Live Link**:https://b-14-assingment-6.vercel.app/
 
  
-  **GitHub Repository**:https://github.com/tharimakeya-dev/B14-A6
+  **GitHub Repository**:https://github.com/tharimakeya-dev/B-14-assingment-6
 
