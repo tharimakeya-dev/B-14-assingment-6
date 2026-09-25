@@ -79,7 +79,7 @@ Works across mobile, tablet, and desktop — the library grid collapses from
 three columns to one, the hero stacks, and the navbar exposes a mobile menu.
 
 ## Submission Links
-   **Live Link**:https://b14-a6.vercel.app/
+   **Live Link**:https://b-14-assingment-6.vercel.app/
 
  
   **GitHub Repository**:https://github.com/tharimakeya-dev/B14-A6
