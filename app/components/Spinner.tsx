@@ -1,4 +1,5 @@
 /** Accent spinning loader. */
+
 export default function Spinner({ className = "h-8 w-8" }: { className?: string }) {
   return (
     <span
