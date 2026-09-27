@@ -45,14 +45,27 @@ export default async function Home() {
 
         {/* Right: hero image */}
         <div className="relative aspect-4/3 w-full overflow-hidden rounded-3xl border border-white/10 bg-linear-to-br from-zinc-800 via-zinc-900 to-black">
-          <Image
-            src="/banner hero image.png"
+          {/* <Image
+            src="/banner-hero-image.png"
             alt="Anime character doing a fitness workout"
             fill
             priority
             sizes="(min-width: 1024px) 50vw, 100vw"
             className="object-cover"
-          />
+          /> */}
+
+          <div className="flex-1 flex justify-center lg:justify-end w-full mt-3">
+            <div className="relative w-full max-w-55 sm:max-w-65 lg:max-w-[320px] flex items-center justify-center">
+              <Image
+                src="/banner.1vybq6kf06-yi.png"
+                alt="Workout Equipment"
+                width={320}
+                height={320}
+                className="object-contain w-full h-auto drop-shadow-xl"
+                priority
+              />
+            </div>
+          </div>
         </div>
       </section>
 
