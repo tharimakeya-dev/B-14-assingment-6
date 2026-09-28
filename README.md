@@ -47,6 +47,21 @@ up — exercises, minutes, and calories update live as you go.
 - All workouts: `https://api.abcz.workers.dev/api/fitlog`
 - Single workout: `https://api.abcz.workers.dev/api/fitlog/:id`
 
+
+📋 Today's Workout Plan
+Users can add workouts to Today's Plan and manage their daily routine.
+
+The plan includes:
+
+Maximum of five lifts for today
+Exercise count
+Total workout minutes
+Total calories
+View Details option
+Mark as Done functionality
+Remove workout option
+The navbar automatically updates the Plan counter when workouts are added or removed.
+
 ## 🚀 Getting started
 
 ```bash
