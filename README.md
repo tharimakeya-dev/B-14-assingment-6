@@ -47,7 +47,7 @@ up — exercises, minutes, and calories update live as you go.
 - All workouts: `https://api.abcz.workers.dev/api/fitlog`
 - Single workout: `https://api.abcz.workers.dev/api/fitlog/:id
 - 
-  ## Today's Workout Plan
+  ## 📋 Today's Workout Plan
 Users can add workouts to Today's Plan and manage their daily routine.
 
 The plan includes:
