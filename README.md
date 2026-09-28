@@ -47,7 +47,7 @@ up — exercises, minutes, and calories update live as you go.
 - All workouts: `https://api.abcz.workers.dev/api/fitlog`
 - Single workout: `https://api.abcz.workers.dev/api/fitlog/:id
 - 
-  ##Today's Workout Plan
+  ## Today's Workout Plan
 Users can add workouts to Today's Plan and manage their daily routine.
 
 The plan includes:
@@ -69,13 +69,13 @@ yarn dev      # start the dev server at http://localhost:3000
 yarn build    # production build
 yarn start    # serve the production build
 ```
-##⭐ Save Workouts for Later
+## ⭐ Save Workouts for Later
 Users can save workouts they are interested in completing later.
 
 The Saved counter in the navbar updates automatically, and saved workouts are accessible from the My Plan page.
 
 
-##🔍 Detailed Workout Information
+## 🔍 Detailed Workout Information
 Every workout has a dedicated details page containing:
 
 Large workout image
@@ -90,7 +90,7 @@ Rating
 Step-by-step instructions
 Users can also add the workout directly to today's plan or save it for later.
 
-##📊 Live Workout Metrics
+## 📊 Live Workout Metrics
 The My Plan page provides real-time workout statistics:
 
 Exercises — Number of planned workouts
